@@ -1,0 +1,29 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T03:02:07Z",
+  "IdClaims": [
+    {
+      "Claim": "t:mikemccabe"
+    },
+    {
+      "Claim": "gh:mikemccabe"
+    },
+    {
+      "Claim": "mdon:@mikemccabe@mastodon.social"
+    },
+    {
+      "Claim": "post:mikemccabe"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "e3d01c7f1e693f46b1c2028f",
+    "Timestamp": "2023-04-06T03:31:58Z",
+    "Signature": "77b0658c02d7eb75b6fe7681c1924bcec61bc4d0a32c42d7a707c575d3a96795207d4fa82423b96d04bcfdbf5836591b05df74c6e965f9862b9d69232a60b74c097b7ef104c209634f005bd876163194eadfb740bdd1f6fb3b6921b0b732e208a02d7e4bbc150e76ef80563626f013e67683692bd71bd1d5dd6272041548a18d84ce0413611a8333200037a34621cf40b34e92aa9f8711ccadf22a7eba5bf25f13e58eba1ac5340a535f97ee25518f2165fe5c8eb886e87c8e64e3a189010f72beab80132dd30701cf02f121fc0515bae42f00c8cf231c228ab145c42d0264475056c60914f474d9c17eb2bb633543be79e93693d6e3a1bfd8b676723e7867e2"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "25cb5332fd611813422d2ba1e1e0d27b2ceb0bc627fb2d36f968746014d90790",
+  "ContentToHash": "v1|gh:mikemccabe,mdon:@mikemccabe@mastodon.social,post:mikemccabe,t:mikemccabe|2023-04-06T03:02:07Z"
+}
